@@ -1,0 +1,10 @@
+syntax on
+colorscheme slate
+set cursorline
+set number
+set numberwidth=4
+set shiftwidth=4
+set tabstop=4
+set softtabstop=4
+set expandtab
+set visualbell
